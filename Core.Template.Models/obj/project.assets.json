@@ -1254,11 +1254,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TFS\\ApiTemplate\\Core.Template\\Core.Template.Models\\Core.Template.Models.csproj",
+      "projectUniqueName": "D:\\test\\Core.Template\\Core.Template.Models\\Core.Template.Models.csproj",
       "projectName": "Core.Template.Models",
-      "projectPath": "D:\\TFS\\ApiTemplate\\Core.Template\\Core.Template.Models\\Core.Template.Models.csproj",
+      "projectPath": "D:\\test\\Core.Template\\Core.Template.Models\\Core.Template.Models.csproj",
       "packagesPath": "C:\\Users\\panpeng\\.nuget\\packages\\",
-      "outputPath": "D:\\TFS\\ApiTemplate\\Core.Template\\Core.Template.Models\\obj\\",
+      "outputPath": "D:\\test\\Core.Template\\Core.Template.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1277,8 +1277,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\TFS\\ApiTemplate\\Core.Template\\Core.Template.Utils\\Core.Template.Utils.csproj": {
-              "projectPath": "D:\\TFS\\ApiTemplate\\Core.Template\\Core.Template.Utils\\Core.Template.Utils.csproj"
+            "D:\\test\\Core.Template\\Core.Template.Utils\\Core.Template.Utils.csproj": {
+              "projectPath": "D:\\test\\Core.Template\\Core.Template.Utils\\Core.Template.Utils.csproj"
             }
           }
         }

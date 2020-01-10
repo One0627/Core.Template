@@ -1236,11 +1236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TFS\\ApiTemplate\\Core.Template\\Core.Template.Utils\\Core.Template.Utils.csproj",
+      "projectUniqueName": "D:\\test\\Core.Template\\Core.Template.Utils\\Core.Template.Utils.csproj",
       "projectName": "Core.Template.Utils",
-      "projectPath": "D:\\TFS\\ApiTemplate\\Core.Template\\Core.Template.Utils\\Core.Template.Utils.csproj",
+      "projectPath": "D:\\test\\Core.Template\\Core.Template.Utils\\Core.Template.Utils.csproj",
       "packagesPath": "C:\\Users\\panpeng\\.nuget\\packages\\",
-      "outputPath": "D:\\TFS\\ApiTemplate\\Core.Template\\Core.Template.Utils\\obj\\",
+      "outputPath": "D:\\test\\Core.Template\\Core.Template.Utils\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
