@@ -1,0 +1,11 @@
+D:\TFS\ApiTemplate\Core.Template\Core.Template.Api\bin\Debug\netcoreapp2.2\Core.Template.IServices.dll
+D:\TFS\ApiTemplate\Core.Template\Core.Template.Api\bin\Debug\netcoreapp2.2\Core.Template.Models.dll
+D:\TFS\ApiTemplate\Core.Template\Core.Template.Api\bin\Debug\netcoreapp2.2\Core.Template.Services.dll
+D:\TFS\ApiTemplate\Core.Template\Core.Template.Api\bin\Debug\netcoreapp2.2\Core.Template.Utils.dll
+D:\TFS\ApiTemplate\Core.Template\Core.Template.Api\obj\Debug\netcoreapp2.2\Core.Template.Api.csprojAssemblyReference.cache
+D:\TFS\ApiTemplate\Core.Template\Core.Template.Api\obj\Debug\netcoreapp2.2\Core.Template.Api.csproj.CoreCompileInputs.cache
+D:\TFS\ApiTemplate\Core.Template\Core.Template.Api\obj\Debug\netcoreapp2.2\Core.Template.Api.RazorAssemblyInfo.cache
+D:\TFS\ApiTemplate\Core.Template\Core.Template.Api\obj\Debug\netcoreapp2.2\Core.Template.Api.RazorAssemblyInfo.cs
+D:\TFS\ApiTemplate\Core.Template\Core.Template.Api\obj\Debug\netcoreapp2.2\Core.Template.Api.AssemblyInfoInputs.cache
+D:\TFS\ApiTemplate\Core.Template\Core.Template.Api\obj\Debug\netcoreapp2.2\Core.Template.Api.AssemblyInfo.cs
+D:\TFS\ApiTemplate\Core.Template\Core.Template.Api\obj\Debug\netcoreapp2.2\Core.Template.Api.RazorTargetAssemblyInfo.cache

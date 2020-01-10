@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Core.Api.Template</name>
+    </assembly>
+    <members>
+        <member name="M:Core.Template.Api.Controllers.ValuesController.Get">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Core.Template.Api.Controllers.ValuesController.Get(System.String)">
+            <summary>
+            GET
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

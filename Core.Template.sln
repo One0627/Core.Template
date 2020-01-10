@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Template.Api", "Core.Template.Api\Core.Template.Api.csproj", "{398E80D5-3929-407D-B238-9EB97E110AAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Template.Utils", "Core.Template.Utils\Core.Template.Utils.csproj", "{CABE4F44-3213-4CBF-81B6-A7F6B58E3C70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Template.IServices", "Core.Template.IServices\Core.Template.IServices.csproj", "{44D37D78-188C-4AFB-AB29-6A44E2B67274}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Template.Models", "Core.Template.Models\Core.Template.Models.csproj", "{86462BFD-5334-45D9-913C-335A105F9BF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Template.Services", "Core.Template.Services\Core.Template.Services.csproj", "{5477A2C1-06FF-44ED-A5CF-8605CE6CBC16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398E80D5-3929-407D-B238-9EB97E110AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398E80D5-3929-407D-B238-9EB97E110AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398E80D5-3929-407D-B238-9EB97E110AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398E80D5-3929-407D-B238-9EB97E110AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABE4F44-3213-4CBF-81B6-A7F6B58E3C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABE4F44-3213-4CBF-81B6-A7F6B58E3C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABE4F44-3213-4CBF-81B6-A7F6B58E3C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABE4F44-3213-4CBF-81B6-A7F6B58E3C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D37D78-188C-4AFB-AB29-6A44E2B67274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D37D78-188C-4AFB-AB29-6A44E2B67274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D37D78-188C-4AFB-AB29-6A44E2B67274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D37D78-188C-4AFB-AB29-6A44E2B67274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86462BFD-5334-45D9-913C-335A105F9BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86462BFD-5334-45D9-913C-335A105F9BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86462BFD-5334-45D9-913C-335A105F9BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86462BFD-5334-45D9-913C-335A105F9BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5477A2C1-06FF-44ED-A5CF-8605CE6CBC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5477A2C1-06FF-44ED-A5CF-8605CE6CBC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5477A2C1-06FF-44ED-A5CF-8605CE6CBC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5477A2C1-06FF-44ED-A5CF-8605CE6CBC16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99A6874E-6C24-4DAE-95CA-C42FB1F2B571}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/79060087
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Core.Template.Api\\Core.Template.Api.csproj
+		SccProjectName1 = Core.Template.Api
+		SccLocalPath1 = Core.Template.Api
+		SccProjectUniqueName2 = Core.Template.Utils\\Core.Template.Utils.csproj
+		SccProjectName2 = Core.Template.Utils
+		SccLocalPath2 = Core.Template.Utils
+		SccProjectUniqueName3 = Core.Template.IServices\\Core.Template.IServices.csproj
+		SccProjectName3 = Core.Template.IServices
+		SccLocalPath3 = Core.Template.IServices
+		SccProjectUniqueName4 = Core.Template.Models\\Core.Template.Models.csproj
+		SccProjectName4 = Core.Template.Models
+		SccLocalPath4 = Core.Template.Models
+		SccProjectUniqueName5 = Core.Template.Services\\Core.Template.Services.csproj
+		SccProjectName5 = Core.Template.Services
+		SccLocalPath5 = Core.Template.Services
+	EndGlobalSection
+EndGlobal
