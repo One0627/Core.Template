@@ -12832,7 +12832,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "D:\\test\\Core.Template\\Core.Template.Api\\Core.Template.Api.csproj",
-      "projectName": "Core.Api.Template",
+      "projectName": "Core.Template.Api",
       "projectPath": "D:\\test\\Core.Template\\Core.Template.Api\\Core.Template.Api.csproj",
       "packagesPath": "C:\\Users\\panpeng\\.nuget\\packages\\",
       "outputPath": "D:\\test\\Core.Template\\Core.Template.Api\\obj\\",

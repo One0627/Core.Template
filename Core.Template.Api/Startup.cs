@@ -82,7 +82,7 @@ namespace Core.Template.Api
                 var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
                 var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
                 c.IncludeXmlComments(xmlPath);
-                c.IncludeXmlComments(@"bin\Debug\netcoreapp2.2\Core.Template.Services.xml");
+                c.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, "Core.Template.Services.xml"));
                 //向http header添加Jwt Authorize
                 c.AddSecurityDefinition("Bearer", new ApiKeyScheme
                 {

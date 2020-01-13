@@ -10,14 +10,14 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
-    <AssemblyName>Core.Api.Template</AssemblyName>
+    <AssemblyName>Core.Template.Api</AssemblyName>
     <RootNamespace>Core.Template.Api</RootNamespace>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <UserSecretsId>3fd739a3-dbfe-4f1f-a8ba-59cfee90e3a6</UserSecretsId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>..\Core.Template.Api\Core.Api.Template.xml</DocumentationFile>
+    <DocumentationFile>..\Core.Template.Api\Core.Template.Api.xml</DocumentationFile>
     <NoWarn>1701;1702;1591</NoWarn>
   </PropertyGroup>
 
@@ -41,9 +41,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Core.Api.Template.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Update="Dockerfile">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
