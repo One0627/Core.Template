@@ -19,4 +19,3 @@ namespace Core.Template.Api
         }
     }
 }
-
