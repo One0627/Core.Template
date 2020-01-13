@@ -14,7 +14,7 @@ namespace Core.Template.Api
     {
         public static void Main(string[] args)
         {
-            IWebHost host = WebHost.CreateDefaultBuilder(args).UseUrls("http://*:5000").UseStartup<Startup>().Build();
+            IWebHost host = WebHost.CreateDefaultBuilder(args).UseStartup<Startup>().Build();
             host.Run();
         }
     }
