@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Core.Template.Services</name>
+    </assembly>
+    <members>
+        <member name="M:Core.Template.Services.UserInfoService.QueryUserInfo">
+            <summary>
+            获取个人信息
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

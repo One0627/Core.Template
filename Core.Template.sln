@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Template.Models", "Cor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Template.Services", "Core.Template.Services\Core.Template.Services.csproj", "{5477A2C1-06FF-44ED-A5CF-8605CE6CBC16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Template.Web", "Core.Template.Web\Core.Template.Web.csproj", "{5B124D9E-E1E5-4943-8D9E-D9ADEEA97C68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,32 +41,15 @@ Global
 		{5477A2C1-06FF-44ED-A5CF-8605CE6CBC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5477A2C1-06FF-44ED-A5CF-8605CE6CBC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5477A2C1-06FF-44ED-A5CF-8605CE6CBC16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B124D9E-E1E5-4943-8D9E-D9ADEEA97C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B124D9E-E1E5-4943-8D9E-D9ADEEA97C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B124D9E-E1E5-4943-8D9E-D9ADEEA97C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B124D9E-E1E5-4943-8D9E-D9ADEEA97C68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {99A6874E-6C24-4DAE-95CA-C42FB1F2B571}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 6
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://dev.azure.com/79060087
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Core.Template.Api\\Core.Template.Api.csproj
-		SccProjectName1 = Core.Template.Api
-		SccLocalPath1 = Core.Template.Api
-		SccProjectUniqueName2 = Core.Template.Utils\\Core.Template.Utils.csproj
-		SccProjectName2 = Core.Template.Utils
-		SccLocalPath2 = Core.Template.Utils
-		SccProjectUniqueName3 = Core.Template.IServices\\Core.Template.IServices.csproj
-		SccProjectName3 = Core.Template.IServices
-		SccLocalPath3 = Core.Template.IServices
-		SccProjectUniqueName4 = Core.Template.Models\\Core.Template.Models.csproj
-		SccProjectName4 = Core.Template.Models
-		SccLocalPath4 = Core.Template.Models
-		SccProjectUniqueName5 = Core.Template.Services\\Core.Template.Services.csproj
-		SccProjectName5 = Core.Template.Services
-		SccLocalPath5 = Core.Template.Services
 	EndGlobalSection
 EndGlobal

@@ -50,7 +50,7 @@ namespace Core.Template.Api
             services.AddMvc(options =>
             {
                 // 全局异常过滤
-                options.Filters.Add(typeof(Filters.GlobalExceptionFilter));
+                //options.Filters.Add(typeof(Filters.GlobalExceptionFilter));
                 // 全局路由权限公约
                 //options.Conventions.Insert(0, new GlobalRouteAuthorizeConvention());
             })
