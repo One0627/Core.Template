@@ -79,10 +79,10 @@ namespace Core.Template.Api
                 });
                 c.DocInclusionPredicate((docName, description) => true);
                 //添加注释显示
-                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
-                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
-                c.IncludeXmlComments(xmlPath);
-                c.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, "Core.Template.Services.xml"));
+                //var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                //var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+                //c.IncludeXmlComments(xmlPath);
+                //c.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, "Core.Template.Services.xml"));
                 //向http header添加Jwt Authorize
                 c.AddSecurityDefinition("Bearer", new ApiKeyScheme
                 {
