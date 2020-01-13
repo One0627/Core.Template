@@ -20,4 +20,4 @@ RUN dotnet publish "Core.Template.Api.csproj" -c Release -o /app
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app .
-ENTRYPOINT ["dotnet", "Core.Api.Template.dll"]
+ENTRYPOINT ["dotnet", "Core.Template.Api.dll"]
