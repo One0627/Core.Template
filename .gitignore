@@ -74,6 +74,7 @@ artifacts/
 *.svclog
 *.scc
 *.cache
+
 # Chutzpah Test files
 _Chutzpah*
 
@@ -286,6 +287,3 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
-
-build.bat
-*.cache
