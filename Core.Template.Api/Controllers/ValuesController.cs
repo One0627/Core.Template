@@ -17,7 +17,7 @@ namespace Core.Template.Api.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "123", "321" };
+            return new string[] { "345", "321" };
         }
 
         /// <summary>
