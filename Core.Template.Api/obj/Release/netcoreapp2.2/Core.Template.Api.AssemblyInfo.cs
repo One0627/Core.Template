@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Core.Api.Template")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Core.Template.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Core.Api.Template")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Core.Api.Template")]
+[assembly: System.Reflection.AssemblyProductAttribute("Core.Template.Api")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Core.Template.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

@@ -75,7 +75,7 @@ namespace Core.Template.Api
                     Version = "v1.0.0",
                     Title = "Core.Template.Api 接口文档",
                     Description = "接口说明文档",
-                    Contact = new Contact { Name = "WatchMan", Email = "Core.Template@xxx.com", Url = "https://github.com/One0627" }
+                    Contact = new Contact { Name = "WatchMan", Email = "79060087@qq.com", Url = "https://github.com/One0627" }
                 });
                 c.DocInclusionPredicate((docName, description) => true);
                 //添加注释显示

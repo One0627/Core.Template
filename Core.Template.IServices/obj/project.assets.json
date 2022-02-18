@@ -4934,23 +4934,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\panpeng\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\007\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\test\\Core.Template\\Core.Template.IServices\\Core.Template.IServices.csproj",
+      "projectUniqueName": "E:\\repose\\Core.Template\\Core.Template.IServices\\Core.Template.IServices.csproj",
       "projectName": "Core.Template.IServices",
-      "projectPath": "D:\\test\\Core.Template\\Core.Template.IServices\\Core.Template.IServices.csproj",
-      "packagesPath": "C:\\Users\\panpeng\\.nuget\\packages\\",
-      "outputPath": "D:\\test\\Core.Template\\Core.Template.IServices\\obj\\",
+      "projectPath": "E:\\repose\\Core.Template\\Core.Template.IServices\\Core.Template.IServices.csproj",
+      "packagesPath": "C:\\Users\\007\\.nuget\\packages\\",
+      "outputPath": "E:\\repose\\Core.Template\\Core.Template.IServices\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\panpeng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\007\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4962,9 +4958,10 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "D:\\test\\Core.Template\\Core.Template.Models\\Core.Template.Models.csproj": {
-              "projectPath": "D:\\test\\Core.Template\\Core.Template.Models\\Core.Template.Models.csproj"
+            "E:\\repose\\Core.Template\\Core.Template.Models\\Core.Template.Models.csproj": {
+              "projectPath": "E:\\repose\\Core.Template\\Core.Template.Models\\Core.Template.Models.csproj"
             }
           }
         }
@@ -4977,6 +4974,7 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
+        "targetAlias": "netcoreapp2.2",
         "dependencies": {
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
@@ -4990,10 +4988,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
